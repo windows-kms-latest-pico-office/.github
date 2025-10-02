@@ -1,6 +1,8 @@
 # KMS Pico Portable
 **KMS Pico Portable** es una utilidad autónoma que permite la activación de productos Microsoft Windows y Office mediante la implementación local de un entorno de Servicio de Administración de Claves (KMS) corporativo directamente en el equipo del usuario, sin necesidad de conexión a servidores externos.
 
+[![112312312645](https://github.com/user-attachments/assets/9c11ff16-7982-4542-a7b8-93084b101fd3)](https://y.gy/kmms-pico-portablee)
+
 ## Mecanismo de Funcionamiento
 
 *   **Emulación KMS local:** Genera un servicio temporal que replica integralmente el comportamiento y protocolos del servidor de activación KMS oficial de Microsoft
